@@ -1,4 +1,4 @@
-# stream_builder
+# Fictionary
 
 A new Flutter project.
 
